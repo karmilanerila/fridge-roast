@@ -1,0 +1,8 @@
+Build an entry for the make.fun bounty "Fridge Roast: One Line, Biggest Laugh"
+(slug u-gentle-badger-68-fridge-roast-one-line-biggest-laugh-a7c354bb): a program
+named main.py that writes ONE roast line about a smart fridge (its app,
+firmware update, camera, ice maker, opinions about milk) to
+/output/entry.txt, 1-200 characters UTF-8, not whitespace only. Stdlib only,
+deterministic, respect MAKEFUN_OUTPUT_DIR, write with open("wb") + chmod 0644,
+no tempfile, no deleting /output. Repo: main.py + README (3 live make.fun
+badges + ?ref=h379tqrk footer) + MIT LICENSE with SPDX line. No freshness.json.
